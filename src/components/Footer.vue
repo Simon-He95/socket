@@ -13,7 +13,7 @@ import { isDark, toggleDark } from "~/composables";
       class="icon-btn"
       i-carbon-logo-github
       rel="noreferrer"
-      href="https://github.com/Simon-He95/websocket"
+      href="https://github.com/Simon-He95/socket"
       target="_blank"
       title="GitHub"
     />
